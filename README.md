@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 👩🏽‍🏫 Pronouns: she/her
 - 👜 Fun fact: After working in sales more than 12 years I decided to learn Programming!
 [linkedin][linkedin]
--  [linkedin]: https://linkedin.com/in/somayeh-sadeghizadeh-59497265/
+
+ [linkedin]: https://linkedin.com/in/somayeh-sadeghizadeh-59497265/
