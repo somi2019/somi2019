@@ -4,6 +4,9 @@
 
 **somi2019/somi2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![ax](https://user-images.githubusercontent.com/70166302/99686815-f66d2e00-2a51-11eb-8679-ce71fa482a6a.png)
+
+
 Here are some ideas to get you started:
 
 - 🧩 I’m currently working on *my class assignments*.
