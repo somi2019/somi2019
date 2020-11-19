@@ -3,6 +3,7 @@
 ## I am studying master of engineering managment.
 
 **somi2019/somi2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![somi2020 ]:(//i.pinimg.com/originals/6f/86/ae/6f86ae77e36a84924aa4e7f04093335b.gif) 
 
 Here are some ideas to get you started:
 
