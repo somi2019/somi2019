@@ -1,6 +1,6 @@
 ### Hi I'm Somi. 👋
 
-## I am studying master of engineering managment.
+## I am studying master of Engineering Managment.
 
 **somi2019/somi2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
